@@ -4,5 +4,5 @@ O jogo segue as regras clássicas do Campo Minado, onde o jogador deve revelar c
 
 Ao iniciar o jogador poderá inserir a quantidade de células verticais e horizontais individualmente, após isso o jogo se inicia com a personalização escolhida.
 
-Linguagem utilizada: Python
-Bibliotecas utilizadas: tkinter, random
+Linguagem utilizada: Python.<br>
+Bibliotecas utilizadas: tkinter, random.
